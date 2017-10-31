@@ -1,0 +1,2 @@
+webpackJsonp([1],{158:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(196);t.default=n.a},196:function(e,t,a){"use strict";function n(){return i.a.createElement("div",null,i.a.createElement("img",{alt:"sky",className:"bg img-fluid",src:r.a}))}var c=a(0),i=a.n(c),s=a(197),r=a.n(s);t.a=n},197:function(e,t,a){e.exports=a.p+"static/media/sky.e9f74daf.jpg"}});
+//# sourceMappingURL=home.e53ce3ac.chunk.js.map
